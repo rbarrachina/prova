@@ -3,4 +3,10 @@ segona línia
 tercera línia
 quarta linia
 cinquena
+<<<<<<< HEAD
 sisena (solucionat)
+=======
+sis
+setena (test)
+vuit (test)
+>>>>>>> test
